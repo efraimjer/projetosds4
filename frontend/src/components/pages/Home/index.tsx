@@ -19,7 +19,6 @@ function Home(){
                 </Link>
             </div>
         </div>
-
         <Footer />
         </>
     );
